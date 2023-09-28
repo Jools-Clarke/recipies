@@ -1,7 +1,7 @@
 # ingredients
 
 - avocados
-- lemon
+- lime
 - salt
 
 # instructions
